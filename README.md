@@ -1,6 +1,6 @@
 # Web Data View -- A Chrome Extension Letting Users to Query the Webpage
 
-## To run server, run python chat.py In if statement at the bottom, the first two lines are for eventlet localhost and 2 lines below are for Kite server.
+## To run server, run python chat.py, then start the Chrome Extension.
 
 ## Problem Definition
 Web data is ubiquitous and is an abundant source of information. Users typically spend a few hours every day to extract information from the web for activities like online shopping, searching for good restaurants based on customer reviews, sorting through  news articles to gather opinions etc. Typically, data from a webpage is view-only for the end-user. To enable an end-user to perform any kind of data analysis to get additional useful information, it is required that the data entities and values in the webpage are accessible as individual objects. However, performing web data extraction is non-trivial due to unstructured or semi-structured nature of data.    
