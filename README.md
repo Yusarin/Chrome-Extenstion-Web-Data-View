@@ -1,4 +1,4 @@
-# Web Data View -- A Chrome Extension Letting Users to Query the Webpage
+# Web Data View -- A Chrome Extension Letting Users to Query the Webpage Using a JSON-Like Query Language
 
 ## To run server, run python chat.py, then start the Chrome Extension.
 
